@@ -1,2 +1,2 @@
-# gloriachen.github.io
+# gloriauchen.github.io
 personal site
